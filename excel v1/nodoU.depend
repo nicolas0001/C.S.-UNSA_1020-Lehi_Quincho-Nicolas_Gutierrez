@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1351647240 source:c:\users\nicolas\desktop\nodou\arbolb.cpp
+	"arbolB.h"
+
+1352427405 c:\users\nicolas\desktop\nodou\arbolb.h
+	"nodo.h"
+
+1351645462 c:\users\nicolas\desktop\nodou\nodo.h
+
+1351566807 source:c:\users\nicolas\desktop\nodou\celda.cpp
+	"celda.h"
+
+1351566815 c:\users\nicolas\desktop\nodou\celda.h
+	"nodo.h"
+	<vector>
+	<map>
+	<string>
+
+1351645835 source:c:\users\nicolas\desktop\nodou\cellnodo.cpp
+	"cellNodo.h"
+
+1351645835 c:\users\nicolas\desktop\nodou\cellnodo.h
+	"nodo.h"
+	"celda.h"
+
+1351393147 source:c:\users\nicolas\desktop\nodou\m_esparsa.cpp
+	"M_esparsa.h"
+
+1351530068 c:\users\nicolas\desktop\nodou\m_esparsa.h
+	"celda.h"
+
+1351613880 source:c:\users\nicolas\desktop\nodou\nodo.cpp
+	"nodo.h"
+
+1351645994 source:c:\users\nicolas\desktop\nodou\number.cpp
+	"number.h"
+
+1351645968 c:\users\nicolas\desktop\nodou\number.h
+	"nodo.h"
+
+1351646764 source:c:\users\nicolas\desktop\nodou\operador.cpp
+	"operador.h"
+
+1351646764 c:\users\nicolas\desktop\nodou\operador.h
+	"nodo.h"
+
+1351646963 source:c:\users\nicolas\desktop\nodou\operadorcell.cpp
+	"operadorCell.h"
+
+1351646963 c:\users\nicolas\desktop\nodou\operadorcell.h
+	"nodo.h"
+	"operador.h"
+
+1351675908 source:c:\users\nicolas\desktop\nodou\parser.cpp
+	"parser.h"
+	<cstdlib>
+
+1351675741 c:\users\nicolas\desktop\nodou\parser.h
+	<string>
+	"arbolB.h"
+	"number.h"
+	"celda.h"
+	"cellNodo.h"
+	"funciones.h"
+	"operadorCell.h"
+
+1351388439 c:\users\nicolas\desktop\nodou\funciones.h
+	"nodo.h"
+	"cmath"
+
+1352426342 source:c:\users\nicolas\desktop\nodou\main.cpp
+	<iostream>
+	"arbolB.h"
+	"number.h"
+	"celda.h"
+	"cellNodo.h"
+	"funciones.h"
+	"operadorCell.h"
+	"parser.h"
+
+1369783866 source:f:\aod\nodou\celda.cpp
+	"celda.h"
+
+1369783866 f:\aod\nodou\celda.h
+	"Nodo.h"
+	<vector>
+	<map>
+	<string>
+
+1369782334 f:\aod\nodou\nodo.h
+
+1351393148 source:f:\aod\nodou\m_esparsa.cpp
+	"M_esparsa.h"
+
+1351530070 f:\aod\nodou\m_esparsa.h
+	"celda.h"
+
+1369782464 source:f:\aod\nodou\number.cpp
+	"number.h"
+
+1369782416 f:\aod\nodou\number.h
+	"Nodo.h"
+
+1351646766 source:f:\aod\nodou\operador.cpp
+	"operador.h"
+
+1369782334 f:\aod\nodou\operador.h
+	"Nodo.h"
+
+1351646964 source:f:\aod\nodou\operadorcell.cpp
+	"operadorCell.h"
+
+1369782584 f:\aod\nodou\operadorcell.h
+	"Nodo.h"
+	"operador.h"
+
+1369782334 source:f:\aod\nodou\arbolb.cpp
+	"arbolB.h"
+
+1369784556 f:\aod\nodou\arbolb.h
+	"Nodo.h"
+
+1369782528 source:f:\aod\nodou\cellnodo.cpp
+	"cellNodo.h"
+
+1369782516 f:\aod\nodou\cellnodo.h
+	"Nodo.h"
+	"celda.h"
+
+1369782334 source:f:\aod\nodou\nodo.cpp
+	"Nodo.h"
+
+1369783900 source:f:\aod\nodou\main.cpp
+	<iostream>
+	"arbolB.h"
+	"Nodo_number.h"
+	"celda.h"
+	"Nodo_cell.h"
+	"funciones.h"
+	"Nodo_operador.h"
+	"parser.h"
+
+1369782334 f:\aod\nodou\funciones.h
+	"Nodo.h"
+	"cmath"
+
+1369783002 f:\aod\nodou\parser.h
+	<string>
+	"arbolB.h"
+	"Nodo_number.h"
+	"celda.h"
+	"Nodo_cell.h"
+	"funciones.h"
+	"Nodo_operador.h"
+
+1369782416 source:f:\aod\nodou\parser.cpp
+	"parser.h"
+	<cstdlib>
+
+1369782416 f:\aod\nodou\nodo_number.h
+	"Nodo.h"
+
+1369782516 f:\aod\nodou\nodo_cell.h
+	"Nodo.h"
+	"celda.h"
+
+1369782584 f:\aod\nodou\nodo_operador.h
+	"Nodo.h"
+	"operador.h"
+
+1369783218 source:f:\aod\nodou\nodo_cell.cpp
+	"Nodo_cell.h"
+
+1369783228 source:f:\aod\nodou\nodo_number.cpp
+	"Nodo_number.h"
+
+1369783256 source:f:\aod\nodou\nodo_operador.cpp
+	"Nodo_operador.h"
+
